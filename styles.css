@@ -1,0 +1,151 @@
+#title {
+  background-color: #022626;
+  color: #BF9673;
+}
+
+body {
+  font-family: "Montserrat"sans-serif;
+  text-align: center;
+}
+
+.navbar {
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: #fff;
+}
+
+.container-lg {
+  background-color: #022626;
+}
+
+.navbar {
+  background-color: #022626;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: "Monserrat";
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+p {
+  color: #5A7373;
+}
+
+/*Headings*/
+.big-heading {
+
+}
+
+.title-image {
+  width: 40%;
+  height: 5%;
+  position: relative;
+  padding-top: 5%;
+}
+
+/* Headings */
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* container */
+.container-fluid {
+  padding: 3% 15%
+}
+
+/* Feature-box */
+#features {
+  padding: 5% 10%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+/* About Us */
+#about {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #074030;
+  color: #BF9673;
+}
+
+.about-image {
+  width: 50%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#collections {
+  background-color: #074030;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.collections-image {
+  width: 20%;
+  height: 3%;
+  margin: 20px;
+}
+
+.collections-text {
+  color: #BF9673;
+}
+
+#about {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.aboutus-image {
+  width: 40%;
+  height: 5%;
+  margin: 20px;
+}
+
+.Fabric-text {
+  font-size: 1rem;
+}
+
+.Art-text {
+  font-size: 1rem;
+}
+
+/*Contact Section*/
+.Contact-Us {
+  background-color: #5A7373;
+  color: #BF9673;
+  font-size: 1rem;
+}
